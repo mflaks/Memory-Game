@@ -1,6 +1,8 @@
 # Memory
-The objective of the game is to turn over pair of matching cards. If you open 2 cards that doesn't match, both cards will be closed and you should try again.
-The gol of the game is to open all cards in fewer attemps
+All of the cards are laid face down on a surface. Two cards are flipped face up over each turn.
+If the cards don't match, they will be closed.
+
+The object of the game is to turn over all pairs of matching cards in fewer attemps as possible
 
 ![memory](Memory.JPG)
 
