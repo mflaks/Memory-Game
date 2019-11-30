@@ -1,6 +1,8 @@
 # Memory
 The objective of the game is to turn over pair of matching cards
 
+![memory](memory.jpg)
+
 # Installation
 pip install tkinter
 
